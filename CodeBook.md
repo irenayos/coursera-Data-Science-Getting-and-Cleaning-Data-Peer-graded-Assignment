@@ -71,4 +71,4 @@ tBodyAccJerkMean<br/>
 tBodyGyroMean<br/>
 tBodyGyroJerkMean<br/>
 
-Final Tidy DataSet contains 180 rows, 30 subjects per 6 activities. For more information please read [Readme](https://github.com/kovacmichal/coursera-Data-Science-Getting-and-Cleaning-Data-Peer-graded-Assignment/blob/master/README.md)
+Final Tidy DataSet contains 180 rows, 30 subjects per 6 activities.
